@@ -1,0 +1,53 @@
+﻿character_name,vision,region,model,birthday,weapon_type,rarity,ascension,ascension_specialty,ascension_enemy_mat,ascension_boss_mat,talent_book,talent_mat,hp_90,atk_90,def_90,playable
+Albedo,Geo,Mondstadt,Medium Male,13-Sep,Sword,5,Geo DMG Bonus,Cecilia,Divining Scroll,Basalt Pillar,Teachings of Ballad,Tusk of Monoceros Caeli,13226,251,876,Y
+Aloy,Cryo,NA,Medium Female,4-Apr,Bow,5,Cryo DMG Bonus,Crystal Marrow,Spectral Husk,Crystalline Bloom,Teachings of Freedom,Molten Moment,10899,234,676,Y
+Amber,Pyro,Mondstadt,Medium Female,10-Aug,Bow,4,ATK,Small Lamp Grass,Firm Arrowhead,Everflame Seed,Teachings of Freedom,Dvalin's Sigh,9461,223,601,Y
+Arataki Itto,Geo,Inazuma,Tall Male,1-Jun,Claymore,5,CRIT Rate,Onikabuto,Slime Condensate,Riftborn Regalia,Teachings of Elegance,Ashen Heart,12858,227,959,Y
+Barbara,Hydro,Mondstadt,Medium Female,5-Jul,Catalyst,4,HP,Philanemo Mushroom,Divining Scroll,Cleansing Heart,Teachings of Freedom,Ring of Boreas,9787,159,669,Y
+Beidou,Electro,Liyue,Tall Female,14-Feb,Claymore,4,Electro DMG Bonus,Noctilucous Jade,Treasure Hoarder Insignia,Lightning Prism,Teachings of Gold,Dvalin's Sigh,13050,225,648,Y
+Bennett,Pyro,Mondstadt,Medium Male,1-Feb,Sword,4,Energy Recharge,Windwheel Aster,Treasure Hoarder Insignia,Everflame Seed,Teachings of Resistance,Dvalin's Plume,12397,191,771,Y
+Chongyun,Cryo,Liyue,Medium Male,7-Sep,Claymore,4,ATK,Cor Lapis,Damaged Mask,Hoarfrost Core,Teachings of Diligence,Dvalin's Sigh,10984,223,648,Y
+Dainsleif,Unknown,Khaenri'ah,Tall Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N
+Diluc,Pyro,Mondstadt,Tall Male,30-Apr,Claymore,5,CRIT Rate,Small Lamp Grass,Recruit's Insignia,Everflame Seed,Teachings of Resistance,Dvalin's Plume,12981,335,784,Y
+Diona,Cryo,Mondstadt,Short Female,18-Jan,Bow,4,Cryo DMG Bonus,Calla Lily,Firm Arrowhead,Hoarfrost Core,Teachings of Freedom,Shard of a Foul Legacy,9570,212,601,Y
+Eula,Cryo,Mondstadt,Tall Female,25-Oct,Claymore,5,CRIT DMG,Dandelion Seed,Damaged Mask,Crystalline Bloom,Teachings of Resistance,Dragon Lord's Crown,13226,342,751,Y
+Fischl,Electro,Mondstadt,Medium Female,27-May,Bow,4,ATK,Small Lamp Grass,Firm Arrowhead,Lightning Prism,Teachings of Ballad,Spirit Locket of Boreas,9189,244,594,Y
+Ganyu,Cryo,Liyue,Medium Female,2-Dec,Bow,5,CRIT DMG,Qingxin,Whopperflower Nectar,Hoarfrost Core,Teachings of Diligence,Shadow of the Warrior,9797,335,630,Y
+Gorou,Geo,Inazuma,Medium Male,18-May,Bow,4,Geo DMG Bonus,Sango Pearl,Spectral Husk,Perpetual Heart,Teachings of Light,Molten Moment,9570,183,648,Y
+Hu Tao,Pyro,Liyue,Medium Female,15-Jul,Polearm,5,CRIT DMG,Silk Flower,Whopperflower Nectar,Juvenile Jade,Teachings of Diligence,Shard of a Foul Legacy,15552,106,876,Y
+Jean,Anemo,Mondstadt,Tall Female,14-Mar,Sword,5,Healing Bonus,Dandelion Seed,Damaged Mask,Hurricane Seed,Teachings of Resistance,Dvalin's Plume,14695,239,769,Y
+Kaedehara Kazuha,Anemo,Inazuma,Medium Male,29-Oct,Sword,5,Elemental Mastery,Sea Ganoderma,Treasure Hoarder Insignia,Marionette Core,Teachings of Diligence,Gilded Scale,13348,297,807,Y
+Kaeya,Cryo,Mondstadt,Tall Male,30-Nov,Sword,4,Energy Recharge,Calla Lily,Treasure Hoarder Insignia,Hoarfrost Core,Teachings of Ballad,Spirit Locket of Boreas,11636,223,792,Y
+Kamisato Ayaka,Cryo,Inazuma,Medium Female,28-Sep,Sword,5,CRIT DMG,Sakura Bloom,Old Handguard,Perpetual Heart,Teachings of Elegance,Bloodjade Branch,12858,342,784,Y
+Kamisato Ayato,Hydro,Inazuma,Tall Male,26-Mar,Sword,5,CRIT DMG,Sakura Bloom,Old Handguard,Dew of Repudation,Teachings of Elegance,Mudra of the Malefic General,13715,299,769,Y
+Keqing,Electro,Liyue,Medium Female,20-Nov,Sword,5,CRIT DMG,Cor Lapis,Whopperflower Nectar,Lightning Prism,Teachings of Prosperity,Ring of Boreas,13103,323,799,Y
+Klee,Pyro,Mondstadt,Short Female,27-Jul,Catalyst,5,Pyro DMG Bonus,Philanemo Mushroom,Divining Scroll,Everflame Seed,Teachings of Freedom,Ring of Boreas,10287,311,615,Y
+Kujou Sara,Electro,Inazuma,Tall Female,14-Jul,Bow,4,ATK,Dendrobium,Damaged Mask,Storm Beads,Teachings of Elegance,Ashen Heart,9570,195,628,Y
+Kuki Shinobu,Electro,Inazuma,Medium Female,NA,Sword,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,N
+Lisa,Electro,Mondstadt,Tall Female,9-Jun,Catalyst,4,Elemental Mastery,Valberry,Slime Condensate,Lightning Prism,Teachings of Ballad,Dvalin's Claw,9570,232,573,Y
+Mona,Hydro,Mondstadt,Medium Female,31-Aug,Catalyst,5,Energy Recharge,Philanemo Mushroom,Whopperflower Nectar,Cleansing Heart,Teachings of Resistance,Ring of Boreas,10409,287,653,Y
+Ningguang,Geo,Liyue,Tall Female,26-Aug,Catalyst,4,Geo DMG Bonus,Glaze Lily,Recruit's Insignia,Basalt Pillar,Teachings of Prosperity,Spirit Locket of Boreas,9787,212,573,Y
+Noelle,Geo,Mondstadt,Medium Female,21-Mar,Claymore,4,DEF,Valberry,Damaged Mask,Basalt Pillar,Teachings of Resistance,Dvalin's Claw,12071,191,799,Y
+Qiqi,Cryo,Liyue,Short Female,3-Mar,Sword,5,Healing Bonus,Violetgrass,Divining Scroll,Hoarfrost Core,Teachings of Prosperity,Tail of Boreas,12368,287,922,Y
+Raiden Shogun,Electro,Inazuma,Tall Female,26-Jun,Polearm,5,Energy Recharge,Amakumo Fruit,Old Handguard,Storm Beads,Teachings of Light,Molten Moment,12907,337,789,Y
+Razor,Electro,Mondstadt,Medium Male,9-Sep,Claymore,4,Physical DMG Bonus,Wolfhook,Damaged Mask,Lightning Prism,Teachings of Resistance,Dvalin's Claw,11962,234,751,Y
+Rosaria,Cryo,Mondstadt,Tall Female,24-Jan,Polearm,4,ATK,Valberry,Recruit's Insignia,Hoarfrost Core,Teachings of Ballad,Shadow of the Warrior,12289,240,710,Y
+Sangonomiya Kokomi,Hydro,Inazuma,Medium Female,22-Feb,Catalyst,5,Hydro DMG Bonus,Sango Pearl,Spectral Husk,Dew of Repudation,Teachings of Transience,Hellfire Butterfly,13471,234,657,Y
+Sayu,Anemo,Inazuma,Short Female,19-Oct,Claymore,4,Elemental Mastery,Crystal Marrow,Whopperflower Nectar,Marionette Core,Teachings of Light,Gilded Scale,11854,244,745,Y
+Shenhe,Cryo,Liyue,Tall Female,10-Mar,Polearm,5,ATK,Qingxin,Whopperflower Nectar,Dragonheir's False Fin,Teachings of Prosperity,Hellfire Butterfly,12993,304,830,Y
+Sucrose,Anemo,Mondstadt,Medium Female,26-Sep,Catalyst,4,Anemo DMG Bonus,Windwheel Aster,Whopperflower Nectar,Hurricane Seed,Teachings of Freedom,Spirit Locket of Boreas,9243,170,703,Y
+Tartaglia,Hydro,Snezhnaya,Tall Male,20-Jul,Bow,5,Hydro DMG Bonus,Starconch,Recruit's Insignia,Cleansing Heart,Teachings of Freedom,Shard of a Foul Legacy,13103,301,815,Y
+Thoma,Pyro,Inazuma,Tall Male,9-Jan,Polearm,4,ATK,Fluorescent Fungus,Treasure Hoarder Insignia,Smoldering Pearl,Teachings of Transience,Hellfire Butterfly,10331,202,751,Y
+Traveler (Aether),None,NA,Medium Female,NA,Sword,5,ATK,Windwheel Aster,Damaged Mask,NA,"Teachings of Freedom, Teachings of Resistance, Teachings of Ballad, Teachings of Transience, Teachings of Elegance, Teachings of Light","Dvalin's Sigh, Dragon Lord's Crown",10875,212,683,Y
+Traveler (Lumine),None,NA,Medium Male,NA,Sword,5,ATK,Windwheel Aster,Damaged Mask,NA,"Teachings of Freedom, Teachings of Resistance, Teachings of Ballad, Teachings of Transience, Teachings of Elegance, Teachings of Light","Dvalin's Sigh, Dragon Lord's Crown",10875,212,683,Y
+Venti,Anemo,Mondstadt,Medium Male,16-Jun,Bow,5,Energy Recharge,Cecilia,Slime Condensate,Hurricane Seed,Teachings of Ballad,Tail of Boreas,10531,263,669,Y
+Xiangling,Pyro,Liyue,Medium Female,2-Nov,Polearm,4,Elemental Mastery,Jueyun Chili,Slime Condensate,Everflame Seed,Teachings of Diligence,Dvalin's Claw,10875,225,669,Y
+Xiao,Anemo,Liyue,Medium Male,17-Apr,Polearm,5,CRIT Rate,Qingxin,Slime Condensate,Juvenile Jade,Teachings of Prosperity,Shadow of the Warrior,12736,349,799,Y
+Xingqiu,Hydro,Liyue,Medium Male,9-Oct,Sword,4,ATK,Silk Flower,Damaged Mask,Cleansing Heart,Teachings of Gold,Tail of Boreas,10223,202,758,Y
+Xinyan,Pyro,Liyue,Medium Female,16-Oct,Claymore,4,ATK,Violetgrass,Treasure Hoarder Insignia,Everflame Seed,Teachings of Gold,Tusk of Monoceros Caeli,11201,249,799,Y
+Yae Miko,Electro,Inazuma,Tall Female,27-Jun,Catalyst,5,CRIT Rate,Sea Ganoderma,Old Handguard,Dragonheir's False Fin,Teachings of Light,The Meaning of Aeons,10372,340,569,Y
+Yanfei,Pyro,Liyue,Medium Female,28-Jul,Catalyst,4,Pyro DMG Bonus,Noctilucous Jade,Treasure Hoarder Insignia,Juvenile Jade,Teachings of Gold,Bloodjade Branch,9352,240,587,Y
+Yelan,Hydro,Liyue,Tall Female,NA,Bow,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N
+Yoimiya,Pyro,Inazuma,Medium Female,21-Jun,Bow,5,CRIT Rate,Naku Weed,Divining Scroll,Smoldering Pearl,Teachings of Transience,Dragon Lord's Crown,10164,323,615,Y
+Yun Jin,Geo,Liyue,Medium Female,21-May,Polearm,4,Energy Recharge,Glaze Lily,Damaged Mask,Riftborn Regalia,Teachings of Diligence,Ashen Heart,10657,191,734,Y
+Zhongli,Geo,Liyue,Tall Male,31-Dec,Polearm,5,Geo DMG Bonus,Cor Lapis,Slime Condensate,Basalt Pillar,Teachings of Gold,Tusk of Monoceros Caeli,14695,251,738,Y
